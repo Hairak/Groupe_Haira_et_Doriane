@@ -27,7 +27,7 @@
 							name="username"
 							id="username"
 							placeholder="Entrer votre nom d'utilisateur"
-							required>
+							required/>
 					</div>
 					<div class="form-control">
 						<label for="room"> Quelle session souhaitez-vous rejoindre ?</label>
